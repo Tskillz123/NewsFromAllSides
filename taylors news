@@ -1,0 +1,104 @@
+<h1>Taylors Intro</h1>
+<!DOCTYPE html>
+<>
+<head>
+<title>Taylors page</title>
+</head>
+<>
+<!-- Tried blocks div and span -->
+<h1>hello I'm Taylor</h1>
+  <address> Contact-iampotato39@gmail.com</address>
+
+&Delta; &sum;
+<p><div>My name is Taylor. Born and raised in Salt Lake</div> City. I'm a student returning back to school after taking off a few years. <div>I'm hoping to obtain a degree in computer science.</p>
+  <h2>Goals</h2>
+<!-- Tried diffrent list -->
+<ol>
+  <li>Going to learn HTML</li>
+  <li>Going to get back in shape</li>
+  <li>Going to take my dog on a walk almost every day</li>
+</ol>  
+   <h3>Hobbies</h3>
+   <h4>Work Experience</h4>
+   <h5>My Huskie Puppy</h5>
+  <em>His Name is Hades</em>
+   <h6>Collectibles</h6>
+<!DOCTYPE html>
+
+<!-- Tried to do the iframe on a responsive site and unresponsive -->
+<iframe src="https://www.ksl.com/" height="200" width="300"></iframe>
+  
+
+<!-- Tried pulling an image off of my facebook having trouble with images and iframes -->
+<img src="https://www.facebook.com/photo.php?fbid=10211811686225347&set=a.1420865079385.2059888.1165429897&type=3&source=11&referrer_profile_id=1165429897"> 
+
+
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+  table#t01 {
+    width: 100%;    
+    background-color: #f1f1c1;
+}
+</style>
+
+<body>
+<!-- Tried out diffrent tables adjusted size -->
+</st  
+<table id="t01">
+<table style="width:50%">
+  <caption>Class Schedule</caption>
+  <tr>
+    <th>Class</th>
+    <th>Time</th>
+    <th>days
+  </tr>
+  <tr>
+    <td>CSIS 1430
+    <td>5:30 to 6:50
+       <td>M,W
+  </tr>
+  <tr>
+    <td>CSIS 1200
+    <td>11:30 to 12:50
+       <td>TR
+  </tr>
+  <td>CSIS 1200
+    <td>CSIS 1200
+      <td>CSIS 1200
+</table>
+
+</body>
+  <!DOCTYPE html>
+<html>
+
+<style>
+.Family {
+    background-color: tomato;
+    color: white;
+    padding: 20px;
+}
+</style>
+
+<!-- Tried things out with classes and colors -->
+<h2 class="Family">Hades</h2>
+<p>My huskie puppy
+
+<h2 class="Family">Jessica</h2>
+  <p>grumpy girlfriend</p>
+
+<form action="/action_page.php">
+  Enter your name:
+  <input name="firstname" type="text">
+  <br><br>
+  <input type="submit">
+</form>
+<body>
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-8"> 
+
